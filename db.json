@@ -1,0 +1,28 @@
+{
+  "packages": [
+    {
+      "id": 1,
+      "name": "Starter Pack",
+      "description": "Perfect for light internet users",
+      "price": "$19.99/month",
+      "data_limit": "50GB",
+      "speed": "10 Mbps"
+    },
+    {
+      "id": 2,
+      "name": "Standard Pack",
+      "description": "Ideal for regular internet usage",
+      "price": "$29.99/month",
+      "data_limit": "100GB",
+      "speed": "20 Mbps"
+    },
+    {
+      "id": 3,
+      "name": "Premium Pack",
+      "description": "For heavy internet usage and streaming",
+      "price": "$39.99/month",
+      "data_limit": "Unlimited",
+      "speed": "50 Mbps"
+    }
+  ]
+}

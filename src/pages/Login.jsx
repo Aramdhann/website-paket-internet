@@ -7,8 +7,8 @@ const Login = () => {
   const [passwordVisible, setPasswordVisible] = React.useState(false);
 
   return (
-    <div className="flex justify-center items-center h-screen p-4">
-      <div className="border shadow-xl rounded-xl p-2 flex flex-wrap lg:flex-nowrap gap-2 w-[700px]">
+    <div className="flex justify-center items-center h-screen p-4 bg-gray-50">
+      <div className="border shadow-xl rounded-xl p-2 flex flex-wrap lg:flex-nowrap gap-2 w-[700px] bg-white">
         <div className="flex flex-col justify-evenly gap-5 lg:gap-10 rounded-xl py-8 px-6 lg:py-10 lg:px-8 bg-blue-600 w-full lg:w-fit">
           <p className="font-bold text-xs text-white uppercase tracking-widest">
             Paket Radit
